@@ -1,2 +1,1 @@
---fml
-select 1;
+select 99;
